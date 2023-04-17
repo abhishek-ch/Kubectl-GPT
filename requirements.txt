@@ -1,0 +1,6 @@
+pandas
+openai
+tiktoken
+langchain
+google-search-results
+langchain-serve
