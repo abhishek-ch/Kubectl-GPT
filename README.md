@@ -3,6 +3,7 @@
 Kubectl-GPT is an experimental open-source tool designed for running kubectl commands using GPT.
 The tool is powered by GPT3.5 and Langchain
 
+_Searching for the exact kubectl command can be challenging, so this is a convenient way to find it._
 
 ## 📋 Requirements
 
@@ -18,7 +19,7 @@ To use OpenAI API key for Auto-GPT, you **NEED** to have billing set up (AKA pai
 
 You can set up paid account at https://platform.openai.com/account/billing/overview.
 
-![For OpenAI API key to work, set up paid account at OpenAI API > Billing](./docs/imgs/openai-api-key-billing-paid-account.png)
+![For OpenAI API key to work, set up paid account at OpenAI API > Billing](./resources/openai-api-key-billing-paid-account.png)
 
 
 #### **PLEASE ENSURE YOU HAVE DONE THIS STEP BEFORE PROCEEDING, OTHERWISE NOTHING WILL WORK!**
