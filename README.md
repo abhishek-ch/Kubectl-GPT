@@ -5,6 +5,10 @@ The tool is powered by GPT3.5 and Langchain
 
 _Searching for the exact kubectl command can be challenging, so this is a convenient way to find it._
 
+
+https://user-images.githubusercontent.com/7579608/232610592-b95ead34-3d9e-424f-8069-cf8ce8e48f98.mp4
+
+
 ## 📋 Requirements
 
 - Python 3.10 or later (instructions: [for Windows](https://www.tutorialspoint.com/how-to-install-python-in-windows))
