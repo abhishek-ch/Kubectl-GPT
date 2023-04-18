@@ -63,7 +63,7 @@ To try k8scli-gpt, follow these steps:
 
 ## 🔧 Usage
 
-Run `autogpt` Python module in your terminal
+Run `k8scli-GPT` Python module in your terminal
 
 ```
 python -m kgpt "list all pods"
