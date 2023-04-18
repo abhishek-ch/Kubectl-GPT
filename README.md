@@ -9,6 +9,8 @@ _Searching for the exact kubectl command can be challenging, so this is a conven
 
 - Python 3.10 or later (instructions: [for Windows](https://www.tutorialspoint.com/how-to-install-python-in-windows))
 - [OpenAI API key](https://platform.openai.com/account/api-keys)
+- Kubernetes [Installed](https://kubernetes.io/)
+- Kubectl [Installed](https://kubernetes.io/docs/reference/kubectl/)
 
 
 ## ⚠️ OpenAI API Keys Configuration ⚠️ 
@@ -61,4 +63,7 @@ Run `autogpt` Python module in your terminal
 
 ```
 python -m kgpt "list all pods"
+```
+```
+python -m kgpt "what is the cpu usage of the pod testing in the namespace xyz"
 ```
