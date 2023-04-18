@@ -32,18 +32,18 @@ You can set up paid account at https://platform.openai.com/account/billing/overv
 
 ## 💾 Installation
 
-To try k8scli-gpt, follow these steps:
+To try Kubectl-GPT, follow these steps:
 1. Make sure you have all the **requirements** listed above, if not, install/get them
 
 2. Clone the repository: 
     ```bash
-        git clone https://github.com/Significant-Gravitas/Auto-GPT.git
+        git clone https://github.com/abhishek-ch/Kubectl-GPT.git
     ```
 
 3. Navigate to the directory where the repository was downloaded
 
     ```bash
-    cd k8scli-GPT
+    cd Kubectl-GPT
     ```
 4. Install the required dependencies
 
@@ -53,7 +53,7 @@ To try k8scli-gpt, follow these steps:
 
 5. Configure OpenAI Key
     * If Using OpenAI key, simply `export OPENAI_API_KEY=*****`
-    * If want to use config file, rename `config_template.ini` -> `config.ini` file inside the `k8scli-GPT` dir & update either Azure or OpenAI config
+    * If want to use config file, rename `config_template.ini` -> `config.ini` file inside the `Kubectl-GPT` dir & update either Azure or OpenAI config
 
     By completing these steps, you have properly configured the API Keys for your project.
    
@@ -63,7 +63,7 @@ To try k8scli-gpt, follow these steps:
 
 ## 🔧 Usage
 
-Run `k8scli-GPT` Python module in your terminal
+Run `Kubectl-GPT` Python module in your terminal
 
 ```
 python -m kgpt "list all pods"
