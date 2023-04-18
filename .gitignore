@@ -134,3 +134,4 @@ config.ini
 
 .DS_Store
 /.DS_Store
+.commands.sh
